@@ -1,4 +1,4 @@
-Garcias in Paradise — final website files
+Garcias in Paradise — Website V4
 Wedding: March 8, 2027 · Manta Island Resort, Belize
-Upload the CONTENTS of this folder to the root of the GitHub repository (not the enclosing folder itself).
-Keep CNAME in the repository root so garciasinparadise.com remains connected.
+
+V4 updates: larger small/body text for readability, live seconds in the countdown, simplified accommodations with pricing kept only in FAQ, removed beverage-policy copy, removed the redundant room-booking callout, and added individual room/payment follow-up note.
